@@ -2,7 +2,7 @@
 - 🔭 I’m currently a geoinformatics professional and currently a Geographic Information System Assistant working with statistical data from censuses and surveys. 
 - 💬 Ask me about geoinformatics.
 - 👯 I’m looking to collaborate on spatial projects.
-- 📫 How to reach me: rramirez@mail.sib.org.bz.
+- 📫 How to reach me: rubiere.ramirez@gmail.com.
 
 
 
