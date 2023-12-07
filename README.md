@@ -1,7 +1,7 @@
 ###  Hi there 👋, I'm @Rubi3r3
 - 🔭 I’m currently working on spatial data and statistical data from censuses and surveys. 
 - 💬 Ask me about geoinformatics.
-- 👯 I’m looking to collaborate on spatial projects!
+- 👯 I’m looking to collaborate on spatial projects.
 - 📫 How to reach me: rramirez@mail.sib.org.bz.
 
 <!--
