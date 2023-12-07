@@ -1,5 +1,5 @@
 ###  Hi there 👋, I'm @Rubi3r3
-- 🔭 I’m currently a geoinformatics professional and currently a Geographic Information System Assistant working with statistical data from censuses and surveys. 
+- 🔭 I’m a geoinformatics professional and currently a Geographic Information System Assistant working with statistical data from censuses and surveys. 
 - 💬 Ask me about geoinformatics.
 - 👯 I’m looking to collaborate on spatial projects.
 - 📫 How to reach me: rubiere.ramirez@gmail.com.
