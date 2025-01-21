@@ -2,6 +2,8 @@
 - 🔭 I’m a geoinformatician and currently a Geographic Information System Assistant managing data from censuses and surveys.
 - 👯 I’m looking to collaborate on spatial projects.
 - 📫 How to reach me: rubiere.ramirez@gmail.com.
+- Resume: https://rubi3r3.github.io/resume/
+- CV: https://rubi3r3.github.io/cv/
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-3670A0?style=for-the-badge&logo=r&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-192C5F?style=for-the-badge&logo=mariadb&logoColor=C1775A) ![MySQL](https://img.shields.io/badge/mysql-DC7013?style=for-the-badge&logo=mysql&logoColor=044568) ![SQLite](https://img.shields.io/badge/sqlite-72C1EA?style=for-the-badge&logo=sqlite&logoColor=003B57) ![QGIS](https://img.shields.io/badge/qgis-90B023?style=for-the-badge&logo=qgis&logoColor=F2EB65) ![OSGeo](https://img.shields.io/badge/osgeo-4DB05D?style=for-the-badge&logo=osgeo&logoColor=013A41)
