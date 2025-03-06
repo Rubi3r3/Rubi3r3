@@ -1,5 +1,5 @@
 ###  Hi there 👋, I'm @Rubi3r3
-- 🔭 I am a geoinformatician and currently a Geographic Information System Assistant managing data from censuses and surveys.
+- 🔭 I am a geoinformatician and currently a Geographic Information System Assistant managing geospatial data from censuses and surveys.
 - 👯 I am looking to collaborate on spatial projects.
 - 📫 How to reach me: rubiere.ramirez@gmail.com.
 - <img src="https://github.com/user-attachments/assets/657adcc7-9e90-46a4-b4d4-dc89a759c6b7" width="25" height="25"> My <a href="https://rubi3r3.github.io/resume/">resume</a>.
