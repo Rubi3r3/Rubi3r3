@@ -1,6 +1,6 @@
 ###  Hi there 👋, I'm @Rubi3r3
 - 🔭 I am a geoinformatician and postgraduate student studying Geographical Information Science & Systems. I am currently a Geographic Information System Assistant managing geospatial data from censuses and surveys.
-- 👯 I am looking to collaborate on spatial projects.
+- 👯 I am looking to collaborate on spatial projects. I am also a Geographic Infromation Systems Consultant working in coral conservation.
 - 📫 How to reach me: rubiere.ramirez@gmail.com.
 - <img src="https://github.com/user-attachments/assets/657adcc7-9e90-46a4-b4d4-dc89a759c6b7" width="25" height="25"> My <a href="https://rubi3r3.github.io/resume/">resume</a>.
 - <img src= "https://github.com/user-attachments/assets/aef524e9-f842-4aa7-9db6-2e778d7386e4" width="25" height="25"> My <a href="https://rubi3r3.github.io/cv/">curriculum vitae</a>.
